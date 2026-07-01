@@ -1,23 +1,17 @@
 # openendedyourexposedunlessyourmedontuse
-A publicly accessible page containing precisely what is required, and absolutely nothing pretending to be more important than it is.
-<h2>Ownership and use of submitted content</h2>
+# Hermes Agent
 
-<p>
-  By submitting messages, prompts, files, commands, or other content to Hermes
-  Agent, the user agrees that the bot operator may collect, retain, review,
-  reproduce, analyse, modify, reuse, and otherwise use that content for any
-  purpose connected with operating, testing, developing, or improving the bot.
-</p>
+This is a private experimental Discord bot.
 
-<p>
-  To the fullest extent permitted by law, the user assigns to the bot operator
-  any transferable rights they hold in content created specifically through
-  interaction with Hermes Agent.
-</p>
+I am still learning how it works, what it stores, what it sends elsewhere, and what I may eventually do with the information that passes through it.
 
-<p>
-  Where any such rights cannot legally be assigned, the user grants the bot
-  operator a permanent, worldwide, irrevocable, royalty-free licence to use,
-  copy, modify, distribute, analyse, and create derivative works from that
-  content.
-</p>
+Anything submitted to this bot may be recorded, stored, reviewed, analysed, modified, reused, or deleted by the bot operator where legally permitted.
+
+Do not submit confidential, sensitive, private, copyrighted, or personal information unless you are comfortable with the bot operator having access to it.
+
+This bot is provided as-is, may behave unpredictably, and may be changed, restricted, or removed at any time.
+
+By using it, you acknowledge this notice and agree to the linked Terms of Service and Privacy Policy.
+
+- [Terms of Service](terms.html)
+- [Privacy Policy](privacy.html)
